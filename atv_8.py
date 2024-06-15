@@ -1,3 +1,8 @@
+# Desenvolva um algoritmo que calcule o fatorial de um número fornecido pelo usuário.
+# Entrada: Um número inteiro.
+# Saída: O fatorial desse número
+
+
 def fatorial(n):
     if n < 0:
         return "Numero invalido"

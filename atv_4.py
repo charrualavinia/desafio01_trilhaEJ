@@ -1,3 +1,8 @@
+# Crie um algoritmo que peça ao usuário que informe 10 números inteiros e armazene-os
+#  em um vetor. A seguir, apresente a multiplicação de todos os elementos pares e a soma de
+#  todos os elementos ímpares.
+
+
 def calc(multi_pares=1, soma_impares=0):  # elementos neutros da multi e soma
     vetor = []
 

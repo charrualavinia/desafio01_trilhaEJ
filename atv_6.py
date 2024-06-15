@@ -1,3 +1,8 @@
+#  Escreva um programa que leia uma lista de números e os ordene em ordem crescente.
+# Entrada: Uma lista de números.
+# Saída: A lista de números ordenada.
+
+
 tam = int(input("Digite a quantidade de numeros: "))
 num = []
 

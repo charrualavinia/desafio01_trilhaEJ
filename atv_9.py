@@ -1,3 +1,11 @@
+#  Escreva um algoritmo para uma empresa que decide dar um reajuste a seus 584
+#  funcionários de acordo com os seguintes critérios:
+# 50% para aqueles que ganham menos do que 3 salários mínimos
+# 20% para aqueles que ganham entre 3 a 10 salários mínimos
+# 15% para aqueles que ganham de 10 a 20 salários mínimos
+# 10% para os demais
+
+
 def calcular_reajuste(valor, salario_minimo):
     if valor < (3 * salario_minimo):
         return valor * 1.50
